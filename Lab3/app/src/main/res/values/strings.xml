@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HrC</string>
+    <string name="title_home">General</string>
+    <string name="title_dashboard">Drawing</string>
+    <string name="title_notifications">Book list</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
