@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HrC</string>
+    <string name="title_home">General</string>
+    <string name="title_dashboard">Drawing</string>
+    <string name="title_notifications">Book list</string>
+    <string name="search_bar">Book search</string>
+    <string name="add_item">Add</string>
+    <string name="failed_search">No items found</string>
+
+
+</resources>
